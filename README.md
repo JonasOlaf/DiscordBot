@@ -7,7 +7,7 @@ Bot for guild's discord server to add gold values to a sheet. Includes a gamblin
 
 ++++
 pip3 install gspread discord.py python-dotenv gspread-formatting
-++++
+```
 gspread: call google API
 discord.py
 dotenv: loads .env for setting
@@ -17,9 +17,9 @@ dotenv: loads .env for setting
 # Discord Token
 .env needs to have one line with the discord bot token key
 
-++++
+```
 DISCORD_TOKEN=############
-++++
+```
 
 --------------------------
 # botCreds.json
