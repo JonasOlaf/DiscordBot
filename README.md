@@ -5,7 +5,7 @@ Bot for guild's discord server to add gold values to a sheet. Includes a gamblin
 
 # Necessary packages
 
-++++
+```
 pip3 install gspread discord.py python-dotenv gspread-formatting
 ```
 gspread: call google API
